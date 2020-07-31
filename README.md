@@ -1,6 +1,6 @@
 ## Welcome to Data Science World
 
--  [I](https://www.linkedin.com/in/princekrksingh> am Data Science and ML enthusiasts, love to automate data science stuffs.Currently,student of M.Sc. Informatics at IIC,University of Delhi.I am here to help you with your data science journey. I am currently a Data Science Intern at Alpha AI.
+# ** [I](https://www.linkedin.com/in/princekrksingh) am Data Science and ML enthusiasts, love to automate data science stuffs.Currently,student of M.Sc. Informatics at IIC,University of Delhi.I am here to help you with your data science journey. I am currently a Data Science Intern at Alpha AI.**
 
 
 ### Free Resource
