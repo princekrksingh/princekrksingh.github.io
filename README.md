@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Data Science World
 
-You can use the [editor on GitHub](https://github.com/princekrksingh/princekrksingh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [I](https://www.linkedin.com/in/princekrksingh> am Data Science and ML enthusiasts, love to automate data science stuffs.Currently,student of M.Sc. Informatics at IIC,University of Delhi.I am here to help you with your data science journey. I am currently a Data Science Intern at Alpha AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Free Resource
+- 1.)[Cheapest Course to start with on Udemy](https://www.udemy.com/share/101WeAB0UddVdUQ34)
+- 2.)[Roadmap for ML](https://github.com/mrdbourke/machine-learning-roadmap)
+- 3.)[Shallow Deep Learning](https://github.com/airalcorn2/shallow-deep-learning)
+- 4.)[Join Telegram for more Update](t.me/data_ml)
+         
+      
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Feel free to contact me at [Gmail](princekrksingh@gmail.com) for any help.
+      
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/princekrksingh/princekrksingh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
