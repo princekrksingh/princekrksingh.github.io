@@ -12,6 +12,6 @@
       
 
 
-## Feel free to contact me at [Gmail](princekrksingh@gmail.com) for any help.
+## Feel free to contact me at **princekrksingh@gmail.com** for any help.
       
 
