@@ -11,7 +11,6 @@
 -  [ML Automation](https://docs.google.com/document/d/1HOZeOXc9hxkfqz2qoBXIqBsS1VMA-OLiYSjIicaxiB4/edit?usp=sharing)
 -  [Webserver Automation to achieve CI/CD](https://github.com/princekrksingh/DevOps/blob/master/DevOps%20Automation.pdf)
 -  [Face Recognition Using Tranfer learning](https://github.com/princekrksingh/facial-recognition)
--  [Using Supervisly to Annotate and train model](https://docs.google.com/document/d/1MkecpGxY87yUoQw0q31QRE3J6qOi0v92mYjHODDQJb8/edit)
 
 
 
